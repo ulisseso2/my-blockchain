@@ -49,7 +49,7 @@ class Blockchain:
 
 
 app = Flask(__name__)
-# instanciando o blockchain(Criando o objeto em memória)
+# instanciando o blockchain (Criando o objeto em memória)
 blockchain = Blockchain()
 
 
